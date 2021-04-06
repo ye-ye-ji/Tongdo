@@ -1,7 +1,7 @@
 # Tongdo Fantasia
 
 통도환타지아는 대한민국 양산시에 위치한 놀이공원으로 아쿠아환타지아 워터파크가 함께 입지하고 있습니다.<br>
-이러한 브랜드 특성을 반영하기 위해서 대표컬러를 파란색으로 선정했으며 해당색상이 주는 활력과 안정감을 고려하여 깔끔하고 직선적인 서체를 사용했습니다.
+이러한 브랜드 특성을 반영하여 대표컬러를 파란색으로 선정했으며 해당 색상이 주는 활력과 안정감을 고려하여 깔끔하고 직선적인 서체를 사용했습니다.
 컨텐츠를 카드UI로 구성하고 상단에 검색영역을 추가하여 사용자의 접근성과 시인성을 높였습니다.
 
 - [통도환타지아 홈페이지](https://www.fantasia.co.kr/main.htm)
@@ -33,7 +33,7 @@
         });
       
       
-#### 2. GNB : 마우스를 올리면 2depth가 나타납니다. 2depth에 직선이 양 옆으로 길어지는 트랜지션을 적용했습니다. ####
+#### 2. GNB : 마우스를 올리면 2depth가 나타납니다. 2depth 하단에 위치한 직선은 마우스를 올리면 양 옆으로 길어집니다. ####
 
 ![GNB](https://user-images.githubusercontent.com/74514595/113657238-7978e300-96d8-11eb-94e0-1c0deeb99b9f.jpg)
 
@@ -51,7 +51,7 @@
     #header nav .gnbwrap #gnb > li > .gnbBg > .depth2 > li > a:before{content: ""; display: block; position: absolute; left: 0; bottom: -3px; width: 100%; height: 2px; background-color: #000062; transform: scaleX(0); transform-origin: center; transition: transform 0.4s ease; z-index: 5;}
 
 
-#### 3. 상단아이콘 : 돋보기 아이콘을 클릭하면 검색영역이 슬라이드 되며<br> 유저 아이콘에 마우스를 올리면 로그인 영역이 슬라이드 됩니다. ####
+#### 3. 상단아이콘 : 돋보기 아이콘을 클릭하면 검색영역이 슬라이드 되며 유저 아이콘에 마우스를 올리면 로그인 영역이 슬라이드 됩니다. ####
 
 ![search](https://user-images.githubusercontent.com/74514595/113657898-e9d43400-96d9-11eb-9f45-7a454248329b.jpg)
 
@@ -90,7 +90,7 @@
             
 출처 : https://codepen.io/eond/pen/NqEEez
 
-#### 5. 할인혜택 : Swiper 플러그인을 사용하여 가운데 박스의 사이즈가 변하도록 구현했습니다.<br> 우측 + 버튼에 마우스를 올리면 더보기 글자가 슬라이드 됩니다. ####
+#### 5. 할인혜택 : Swiper 플러그인을 사용하여 가운데 박스 사이즈와 색상을 변경했습니다. 우측 + 버튼에 마우스를 올리면 더보기 글자가 슬라이드 됩니다. ####
 
 ![con1](https://user-images.githubusercontent.com/74514595/113659292-ac24da80-96dc-11eb-83ca-2c2a9ea297c7.jpg)
 
