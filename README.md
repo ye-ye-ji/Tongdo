@@ -161,5 +161,11 @@
                   prevEl: '.main_sec4 .swiper-btWrap .swiper-button-prev',
               },
           });
+    
+## 참고 사이트 ##
 
-#### [리뉴얼 페이지](http://yeji-jung.com/project/tongdo/index.html)에 직접 방문하셔서 살펴보세요. ####
+Swiper : https://swiperjs.com/ <br>
+codepen: https://codepen.io/trending <br>
+codepen(뉴스티커) : https://codepen.io/eond/pen/NqEEez
+
+#### - [리뉴얼 페이지](http://yeji-jung.com/project/tongdo/index.html) 에 방문해보세요. ####
