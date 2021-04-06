@@ -115,7 +115,7 @@
 
 #### 6. 어트랙션 : 탭 버튼을 클릭하면 해당 컨텐츠로 변경됩니다. ####
 
-![attrac](https://user-images.githubusercontent.com/74514595/113660236-9f08eb00-96de-11eb-954e-1f2a12b8815d.jpg)
+![attrac](https://user-images.githubusercontent.com/74514595/113662899-fb223e00-96e3-11eb-882e-d5be0100c92e.jpg)
 
     var $mainTit = $('.main_sec2 .main_tit h2'),
         $night = $('.main_sec2 .main_tit h2.night'),
@@ -144,7 +144,7 @@
             }
     });
 
-#### 7. 공지사항 : Swiper 플러그인을 사용하여 페이지 번호와 버튼을 클릭하면 슬라이드 되도록 구현했습니다. ####
+#### 7. 공지사항 : Swiper 플러그인을 사용했으며 번호와 버튼을 클릭하면 슬라이드 됩니다. ####
 
 ![notice](https://user-images.githubusercontent.com/74514595/113660636-83521480-96df-11eb-9977-636bb4bca2f0.jpg)
 
