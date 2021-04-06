@@ -33,7 +33,7 @@
         });
       
       
-#### 2. GNB : 마우스를 올리면 2depth가 나타납니다. 2depth 하단에 위치한 직선은 마우스를 올리면 양 옆으로 길어지도록 트랜지션을 . ####
+#### 2. GNB : 마우스를 올리면 2depth가 나타납니다. 2depth 하단에 위치한 직선은 마우스를 올리면 양 옆으로 길어지도록 트랜지션을 적용했습니다. ####
 
 ![GNB](https://user-images.githubusercontent.com/74514595/113657238-7978e300-96d8-11eb-94e0-1c0deeb99b9f.jpg)
 
@@ -113,7 +113,7 @@
     .section2 .main_con1 .moreBtn:hover a{top: 15px; left: -5px; transition: top .4s ease-in-out; opacity: 1;}
 
 
-#### 6. 어트랙션 : 탭 버튼을 클릭하면 해당 컨텐츠로 변경됩니다. ####
+#### 6. 어트랙션 : 탭 버튼을 클릭하면 타이틀과 이미지가 변경됩니다. ####
 
 ![attrac](https://user-images.githubusercontent.com/74514595/113662899-fb223e00-96e3-11eb-882e-d5be0100c92e.jpg)
 
