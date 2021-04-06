@@ -73,9 +73,22 @@
             $(this).children(".memberJoin").stop().slideUp();
         });
         
-#### 4. 환타지아 뉴스티커 : 코드펜 사이트 한 줄씩 자동으로 나타납니다.  ####       
+#### 4. 환타지아 뉴스티커 : 코드펜 사이트를 참고했으며 공지사항이 한 줄씩 자동으로 나타납니다. ####       
 
-![news](https://user-images.githubusercontent.com/74514595/113661260-b943c880-96e0-11eb-8f5b-7fda8e61b556.jpg)
+![news](https://user-images.githubusercontent.com/74514595/113662482-26f0f400-96e3-11eb-8c7c-97a304b2bcc6.jpg)
+
+
+        $(function(){
+                $('#newsticker2').Vnewsticker({
+                  speed: 700,         
+                  pause: 2500,       
+                  mousePause: true,  
+                  showItems: 1,    
+                  direction : "Up" 
+                });
+            });  ...
+            
+출처 : https://codepen.io/eond/pen/NqEEez
 
 #### 5. 할인혜택 : Swiper 플러그인을 사용하여 가운데 박스의 사이즈가 변하도록 구현했습니다.<br> 우측 + 버튼에 마우스를 올리면 더보기 글자가 슬라이드 됩니다. ####
 
@@ -148,3 +161,5 @@
                   prevEl: '.main_sec4 .swiper-btWrap .swiper-button-prev',
               },
           });
+
+#### [리뉴얼 페이지](http://yeji-jung.com/project/tongdo/index.html)에 직접 방문하셔서 살펴보세요. ####
